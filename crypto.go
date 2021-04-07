@@ -1,4 +1,4 @@
-package wpn
+package wpnp
 
 import (
 	"encoding/binary"
